@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Тестовое задание",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Maksym Raichev<maskym.raichev@biguniverse.ch>",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.0"
+  }
+}
