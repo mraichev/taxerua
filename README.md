@@ -3,7 +3,7 @@ Certificate Upload auto-test
 
 ## Running Certificate Upload Test
 
-Follow these steps to run API tests locally:
+Follow these steps to run test locally:
 
 1. Clone this repository locally
 2. Change directory: `cd taxerua`
